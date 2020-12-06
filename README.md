@@ -1,6 +1,8 @@
 # course-project-solo_6019
 
-##SOLO 6019- NBA Season Stats 2011 - 2016
+
+## SOLO 6019- NBA Season Stats 2011 - 2016
+Vinu Ihalagamage
 
 ## Describe your topic/interest in about 150-200 words
 
