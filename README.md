@@ -4,6 +4,9 @@
 ## SOLO 6019- NBA Season Stats 2011 - 2016
 Vinu Ihalagamage
 
+## Video Link:
+https://youtu.be/-UCM6xemP40
+
 ## Describe your topic/interest in about 150-200 words
 
 With this dataset, I hope to show my peers the small changes that took place in the NBA over a certain period of time. With the help of the players' data provided by this dataset, I hope to analyse small paterns shown by players as from one season to the next. This dataset provides us with all stats of players, such as their true shooting percentage and their efficiency, which I analysed with hopes of finding small patters.
